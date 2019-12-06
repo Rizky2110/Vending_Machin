@@ -1,0 +1,6 @@
+Task.c:28:15:Koin500_in	8	static
+Task.c:44:15:Koin1000_in	8	static
+Task.c:60:15:proses_ok	8	static
+Task.c:74:15:batal_ok	8	static
+Task.c:88:6:task_init	16	static
+Task.c:97:6:task_run	16	static
